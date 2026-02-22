@@ -1,0 +1,5 @@
+2026-02-22 16:42:43 | INFO | app:79 | 用户 admin 登录成功
+2026-02-22 17:21:13 | ERROR | db:23 | 数据库连接失败: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2026-02-22 17:21:16 | ERROR | db:23 | 数据库连接失败: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2026-02-22 17:24:22 | INFO | app:93 | 用户 admin 登录成功
+2026-02-22 17:24:40 | INFO | app:112 | 用户退出登录: token_1_cb****
